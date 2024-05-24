@@ -1,4 +1,4 @@
-### Hi, I'm Kiho!
+### Hi. I'm Kiho.
 ---
 
 Offensive Security Engineer, Developer, and Researcher.
