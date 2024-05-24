@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi, I'm Kiho!
+---
 
-<!--
-**0xk1h0/0xk1h0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Offensive Security Engineer, Developer, and Researcher.
 
-Here are some ideas to get you started:
+More about me...
+```Python
+def this_is_me():
+  kiho = []
+  kiho[:job] = "Cybersecurity / AI Researcher"
+  kiho[:pronouns] = "He/Him"
+  kiho[:special_move] = "Web Hacking"
+  kiho[:main_weapon] = ["ZAP", "Metasploit"]
+  kiho[:favorite_language] = ["Python", "JavaScript", "Rust"]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Although I usually like web hacking, 
+# I work and play based on all areas of service security.
+```
