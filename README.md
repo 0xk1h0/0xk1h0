@@ -1,7 +1,7 @@
 ### Hi. I'm Kiho.
 ---
 
-Offensive Security Engineer, Developer, and Researcher.
+Cybersecurity Developer, and Researcher.
 
 More about me...
 ```Python
