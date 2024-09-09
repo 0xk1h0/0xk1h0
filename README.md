@@ -1,10 +1,4 @@
-```Python
-def this_is():
-  kiho = []
-  kiho[:job] = "Cybersecurity / AI Researcher"
-  kiho[:pronouns] = "He/Him"
-  kiho[:special_move] = "Web Hacking"
-  kiho[:main_weapon] = ["ZAP", "Metasploit"]
-  kiho[:favorite_language] = ["Python", "JavaScript", "Rust"]
+```Bash
+echo  "Pizza is a mysterious food that comes in a round, square box and is cut into triangular slices, woohoo!"
 ```
 
