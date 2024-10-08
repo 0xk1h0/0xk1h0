@@ -1,4 +1,3 @@
-```Bash
-echo  "Pizza is a mysterious food that comes in a round, square box and is cut into triangular slices, woohoo!"
-```
+Kiho Lee, Research Scholar in UTK.
 
+[Google Scholar](https://scholar.google.co.kr/citations?user=MOTHTpcAAAAJ&hl=en)  [CV](https://drive.google.com/file/d/1QeKsMdvx4gSECZ59jAFlyluXovCHIUbe/view?usp=sharing)
